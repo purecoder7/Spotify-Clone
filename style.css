@@ -42,6 +42,9 @@ header h3{
 .songPlayer{
   background: blue;
   min-height: 6vh;
+  width: 100vw;
+  position: absolute;
+  bottom: 0;
 }
 .right{
  padding: 20px;
